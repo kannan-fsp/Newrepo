@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 5AA2-CBDF
-
- Directory of C:\Users\a844106\Downloads\Myproject
-
-25-06-2025  17:14    <DIR>          .
-25-06-2025  16:46    <DIR>          ..
-25-06-2025  17:14                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  133,943,472,128 bytes free
+Test file please ignore!
